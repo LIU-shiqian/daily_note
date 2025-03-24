@@ -1,2 +1,2 @@
-# daily_note-3-24
+# daily_note
 Study and learn
